@@ -1,3 +1,3 @@
 # sfuFinalProjectV1
 
-demo for git
+verycoolman demo for git
